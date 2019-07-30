@@ -19,7 +19,7 @@ Bot build for educational purposes which takes "sorting algorithms" names as inp
 
 5. Now run codeNinja.py and see Script in action 
 
- - ! (https://placehold.it/15/f03c15/000000?text=+) `#f03c15` **Note:** This Script only suppport keywords mergesort, quicksort, insertionsort, heapsort, bubblesort, BFS and DFS for now. It is up to you how you can extend it
+ ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `**Note:** This Script only suppport keywords mergesort, quicksort, insertionsort, heapsort, bubblesort, BFS and DFS for now. It is up to you how you can extend it`  
 
 
 ## Script In Action 
