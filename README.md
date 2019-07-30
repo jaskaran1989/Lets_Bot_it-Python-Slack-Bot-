@@ -1,5 +1,5 @@
 # Lets_Bot_it-Python-Slack-Bot-
-Bot build for educational purposes which takes "sorting algorithms" names as input and them look for them on Stack overflow and provide the accepted answer as output to slack 
+Bot build for educational purposes which takes "sorting algorithms" names as input and then look for them on Stack overflow and provide the accepted answer as output to slack 
 
 ## How to run this Script and see it in action
 
