@@ -10,7 +10,7 @@ Bot build for educational purposes which takes "sorting algorithms" names as inp
   
 3. Get you token and fill it in print_bot_id.py and fill  it in "config.py"  and  left bot_id empty for now 
 
-##Get token from screen shown below
+## Get token from screen shown below
 
 ![alt text](https://github.com/jaskaran1989/Lets_Bot_it-Python-Slack-Bot-/blob/master/config.png)
 
@@ -19,7 +19,7 @@ Bot build for educational purposes which takes "sorting algorithms" names as inp
 
 5. Now run codeNinja.py and see Script in action 
 
-##Note:This Script only suppport keywords mergesort, quicksort, insertionsort, heapsort, bubblesort, BFS and DFS for now. It is up to you how you can extend it
+## Note:This Script only suppport keywords mergesort, quicksort, insertionsort, heapsort, bubblesort, BFS and DFS for now. It is up to you how you can extend it
 
 
 ## Script In Action 
