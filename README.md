@@ -5,9 +5,14 @@ Bot build for educational purposes which takes "sorting algorithms" names as inp
 1. Create a Slack Account and navigate to https://api.slack.com/apps
 2. Create a app fill basic information and under "Add features and functionality"  choose Bots name you bot whatever you want
   but make sure you have same name in your python files for variable called "bot_name" in codeNinja.py and "BOT_NAME" in print_bot_id.py
-3. Get you token and fill it in print_bot_id.py as shown below
+3. Get you token and fill it in print_bot_id.py and fill  it in "config.py"  and  left bot_id empty for now 
 
+Get token from screen shown below
 ![alt text](https://github.com/jaskaran1989/Lets_Bot_it-Python-Slack-Bot-/blob/master/config.png)
+
+4. Now run only print_bot_id.py you will get "bot_id" take that id fill it in "cinfig.py"
+
+
 
 
 ## Script In Action 
