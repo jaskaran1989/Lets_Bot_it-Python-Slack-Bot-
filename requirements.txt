@@ -1,5 +1,5 @@
 autoenv==1.0.0
-Werkzeug==0.12
+Werkzeug==0.15.3
 beautifulsoup4==4.5.1
 cssselect==0.9.2
 google==1.9.3
