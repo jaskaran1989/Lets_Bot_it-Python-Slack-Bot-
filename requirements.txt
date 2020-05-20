@@ -3,7 +3,7 @@ Werkzeug==0.12
 beautifulsoup4==4.5.1
 cssselect==0.9.2
 google==1.9.3
-httplib2==0.9.2
+httplib2==0.18.0
 requests==2.14.2
 lxml==4.4.0
 pyasn1==0.1.9
